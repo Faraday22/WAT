@@ -1,0 +1,1 @@
+the executible is localed in /usr/local/bin/wat
